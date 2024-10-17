@@ -56,6 +56,12 @@ These parameters are based on the following:
 
 ## Recommended Android Studio settings
 
-TODO
-
-
+- `Editor` > `Code Style`
+  - check `Enable EditorConfig support` (default).
+- `Tools` > `Actions on Save`
+  - check `Reformat code`.
+    - and, include `Kotlin` in target file types.
+  - check `Optimize imports`.
+    - and, include `Kotlin` in target file types.
+- (optional but recommended) `Editor` > `General`
+  - check `Remove trailing blank lines at the end of saved files`.
