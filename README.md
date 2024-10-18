@@ -5,7 +5,7 @@
 Place `.editorconfig` file from this repository in the root directory of your project.
 
 ```
-$ curl -O https://raw.githubusercontent.com/yumemi-inc/android-studio-editorconfig/refs/tags/v1.0.0/.editorconfig
+curl -O https://raw.githubusercontent.com/yumemi-inc/android-studio-editorconfig/refs/tags/v1.0.0/.editorconfig
 ```
 
 Customize if necessary for your project.
